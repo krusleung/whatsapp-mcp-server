@@ -1,0 +1,37 @@
+{
+  "name": "whatsapp-mcp-server",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi-Channel Platform Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "whatsapp-web.js": "^1.18.4",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.9",
+    "cors": "^2.8.5",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/whatsapp-mcp-server.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "api",
+    "server",
+    "mcp",
+    "multi-channel"
+  ],
+  "author": "",
+  "license": "MIT"
+}

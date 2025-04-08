@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# WhatsApp session files
+.wwebjs_auth/
+.wwebjs_cache/
+session/
+
+# Logs
+logs
+*.log
+error.log
+combined.log
+
+# Build files
+dist/
+build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Optional npm cache directory
+.npm
