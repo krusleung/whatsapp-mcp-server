@@ -22,7 +22,7 @@ A Multi-Channel Platform server for WhatsApp integration that allows you to send
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/whatsapp-mcp-server.git
+git clone https://github.com/krusleung/whatsapp-mcp-server.git
 cd whatsapp-mcp-server
 ```
 
